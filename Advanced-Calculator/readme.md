@@ -1,5 +1,7 @@
 # Advanced Calculator
 
+Disini kita akan belajar mengenai Method Chaining
+
 - Index.js
 ```JavaScript
 'use strict'
