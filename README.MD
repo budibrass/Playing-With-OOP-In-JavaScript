@@ -8,5 +8,5 @@ Selain itu di beberapa program kita juga akan belajar mengenai Parsing Data dan 
     - [Advanced Calculator](./Advanced-Calculator)
     - [Parsing Data](./Parsing-Data)
     - [Mangoo Tree](./Mangoo-Tree)
-    - [Tree Groove](./Tree-Groove)
+    - [Tree Groove](./Tree-Grove)
     - [Object Compotition (Cookies)](./Object-Compotition-Cookies)
