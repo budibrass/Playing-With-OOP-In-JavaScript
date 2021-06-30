@@ -9,4 +9,5 @@ Selain itu di beberapa program kita juga akan belajar mengenai Parsing Data dan 
     - [Parsing Data](./Parsing-Data)
     - [Mangoo Tree](./Mangoo-Tree)
     - [Tree Groove](./Tree-Grove)
-    - [Object Compotition (Cookies)](./Object-Compotition-Cookies)
+    - [Cookies and Ovens](./Object-Compotition-Cookies)
+    - [Object Compotition (Cookies)](./Object-Compotition(Cookies))
